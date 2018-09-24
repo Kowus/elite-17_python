@@ -1,0 +1,9 @@
+1. How would you check whether a number is divisible by 3?
+  - Take a number
+  - Add the individual digits of the number
+  - Divide the sum of the digits by 3
+  - If there is no remainder, then the number is a multiple of 3
+
+2. One bag of chin chin is 2 cedis and a customer gives you X cedis.
+   write a list of steps on how you would determine how much change to 
+   give? Is this an algorithm?
